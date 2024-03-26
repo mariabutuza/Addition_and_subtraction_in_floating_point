@@ -1,0 +1,30 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Programe/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto 4f6bd7f03e3d40e585f3f40903acc16b --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot AddSubVMTest_behav xil_defaultlib.AddSubVMTest -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture simpleregister of entity xil_defaultlib.simpleregister [\simpleregister(n=32)\]
+Compiling architecture compareexp of entity xil_defaultlib.CompareExp [compareexp_default]
+Compiling architecture aluexp of entity xil_defaultlib.AluExp [aluexp_default]
+Compiling architecture mux21extend of entity xil_defaultlib.mux21extend [\mux21extend(n=23)\]
+Compiling architecture simpleregister of entity xil_defaultlib.simpleregister [\simpleregister(n=26)\]
+Compiling architecture alignmantise of entity xil_defaultlib.AlignMantise [\AlignMantise(n=26)\]
+Compiling architecture alumantise of entity xil_defaultlib.AluMantise [\AluMantise(n=26)\]
+Compiling architecture realinieremantise of entity xil_defaultlib.RealiniereMantise [realinieremantise_default]
+Compiling architecture mux21 of entity xil_defaultlib.mux21 [\mux21(n=8)\]
+Compiling architecture normalizare of entity xil_defaultlib.Normalizare [normalizare_default]
+Compiling architecture rotunjire of entity xil_defaultlib.Rotunjire [rotunjire_default]
+Compiling architecture controlunit of entity xil_defaultlib.ControlUnit [controlunit_default]
+Compiling architecture addsubvm of entity xil_defaultlib.AddSubVM [addsubvm_default]
+Compiling architecture tb_arch of entity xil_defaultlib.addsubvmtest
+Built simulation snapshot AddSubVMTest_behav

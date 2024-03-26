@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Mar 26 23:16:45 2024
+# Process ID: 7156
+# Current directory: C:/Users/Asus/Desktop/work/AN III/Sem I/SSC/ProiectFinal
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15784 C:\Users\Asus\Desktop\work\AN III\Sem I\SSC\ProiectFinal\project_3.xpr
+# Log file: C:/Users/Asus/Desktop/work/AN III/Sem I/SSC/ProiectFinal/vivado.log
+# Journal file: C:/Users/Asus/Desktop/work/AN III/Sem I/SSC/ProiectFinal\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Asus/Desktop/work/AN III/Sem I/SSC/ProiectFinal/project_3.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/Dell/Desktop/incercredenumire/project_3' since last save.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'D:/Anul3/proiectSSC/project_3/project_3.srcs/sources_1/imports/sources_1/new/AluExp.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'D:/Anul3/proiectSSC/project_3/project_3.srcs/sources_1/imports/sources_1/new/simpleregister.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'D:/Anul3/proiectSSC/project_3/project_3.srcs/sources_1/imports/sources_1/new/AlignMantise.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'D:/Anul3/proiectSSC/project_3/project_3.srcs/sources_1/imports/sources_1/new/AluMantise.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'D:/Anul3/proiectSSC/project_3/project_3.srcs/sources_1/imports/sources_1/new/AddSubVM.vhd'.
+Scanning sources...
+Finished scanning sources
+INFO: [Project 1-230] Project 'project_3.xpr' upgraded for this version of Vivado.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:11 . Memory (MB): peak = 774.328 ; gain = 197.980
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Mar 26 23:19:17 2024...

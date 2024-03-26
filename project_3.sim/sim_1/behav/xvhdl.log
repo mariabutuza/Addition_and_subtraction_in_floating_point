@@ -1,0 +1,26 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Anul3/proiectSSC/project_3/project_3.srcs/sources_1/imports/sources_1/new/AluExp.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AluExp
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Anul3/proiectSSC/project_3/project_3.srcs/sources_1/imports/sources_1/new/simpleregister.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity simpleregister
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/incercredenumire/project_3/project_3.srcs/sources_1/imports/sources_1/new/CompareExp.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CompareExp
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Anul3/proiectSSC/project_3/project_3.srcs/sources_1/imports/sources_1/new/AlignMantise.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AlignMantise
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/incercredenumire/project_3/project_3.srcs/sources_1/imports/sources_1/new/Rotunjire.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Rotunjire
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/incercredenumire/project_3/project_3.srcs/sources_1/imports/sources_1/new/RealiniereMantisa.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RealiniereMantise
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/incercredenumire/project_3/project_3.srcs/sources_1/imports/sources_1/new/Normalizare.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Normalizare
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/incercredenumire/project_3/project_3.srcs/sources_1/imports/sources_1/new/mux21extend.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux21extend
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/incercredenumire/project_3/project_3.srcs/sources_1/imports/sources_1/new/mux21.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux21
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/incercredenumire/project_3/project_3.srcs/sources_1/imports/sources_1/new/ControlUnit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ControlUnit
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Anul3/proiectSSC/project_3/project_3.srcs/sources_1/imports/sources_1/new/AluMantise.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AluMantise
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Anul3/proiectSSC/project_3/project_3.srcs/sources_1/imports/sources_1/new/AddSubVM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AddSubVM
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dell/Desktop/incercredenumire/project_3/project_3.srcs/sim_1/imports/projS/AddSubVMTestt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AddSubVMTest
